@@ -1,0 +1,29 @@
+
+nav{
+    z-index: 10001 !important;
+}
+
+.gradientbg{
+    background: linear-gradient(99deg, #39CF02 0%, #071900 100%);
+}
+
+.bg-fixed{
+    position:fixed;
+}
+
+.image-wraper{
+    margin: 0px 10px;
+}
+
+.image-wraper{
+    width: 80%;
+}
+
+.slick-slide>div{
+    margin: 0 10px;
+}
+
+
+
+
+
